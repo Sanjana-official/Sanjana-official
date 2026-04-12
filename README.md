@@ -1,24 +1,21 @@
+# 👋 Hi, I'm Sanjana
 
-
-
-*# 👋 Hi, I'm Sanjana
-
-🚀 Passionate Developer | Building Projects Daily
-💻 Focus: HTML • CSS • JavaScript
+🚀 Passionate Developer | Building Projects Daily  
+💻 Focus: HTML • CSS • JavaScript  
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Sanjana-official\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Sanjana-official&theme=tokyonight)
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanjana-official\&show_icons=true\&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanjana-official&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjana-official\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjana-official&layout=compact&theme=tokyonight)
 
 ---
 
@@ -38,18 +35,11 @@
 
 ## 🚀 My Projects
 
-
-👉 [[sanjana-official.github.io/Projects/](https://sanjana-official.github.io/Projects/)]
-👉 [[https://YOUR_USERNAME.github.io/projects/](https://sanjana-official.github.io/Itzfizz-ASSIGNMENT/)]
-
-
+👉 https://sanjana-official.github.io/projects/  
+👉 https://sanjana-official.github.io/Itzfizz-ASSIGNMENT/
 
 ---
 
 ## 📈 Activity Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sanjana-official\&theme=tokyo-night)
-
----
-
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sanjana-official&theme=tokyo-night)
