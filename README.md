@@ -9,8 +9,8 @@
 <br><br>
 
 
-<!-- <h2 align="center"><b>🔥 GitHub Streak</b></h2>-->
-<p align="center" style="font-size: 22px; font-weight: bold;">🔥 GitHub Streak</p>
+ <h2 align="center"><b>🔥 GitHub Streak</b></h2>
+<!-- <p align="center" style="font-size: 22px; font-weight: bold;">🔥 GitHub Streak</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Sanjana-official&theme=tokyonight" />
@@ -21,8 +21,8 @@
 
 
 
-<!-- <h2 align="center" ><b>🧰 Tech Stack</b></h2> -->
-<p align="center" style="font-size: 22px; font-weight: bold;">🧰 Tech Stack</p>
+ <h2 align="center" ><b>🧰 Tech Stack</b></h2> 
+ <!-- <p align="center" style="font-size: 22px; font-weight: bold;">🧰 Tech Stack</p> -->
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
@@ -32,8 +32,8 @@
 <br><br>
 
 
-<!-- <h2 align="center"><b>🚀 My Projects</b></h2> -->
-<p align="center" style="font-size: 22px; font-weight: bold;">🚀 My Projects</p>
+<h2 align="center"><b>🚀 My Projects</b></h2> 
+<!-- <p align="center" style="font-size: 22px; font-weight: bold;">🚀 My Projects</p> -->
 
 <p align="center">
 👉 https://sanjana-official.github.io/Projects/ <br>
