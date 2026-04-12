@@ -32,27 +32,10 @@
 
 ## <h2 align="center" font-weight="bold">🚀 My Projects</h2>
 
-<table>
-<tr>
-
-<td align="center" width="50%">
-<a href="[https://sanjana-official.github.io/projects/](https://sanjana-official.github.io/Projects/)">
-<img src="https://image.thum.io/get/width/600/https://sanjana-official.github.io/projects/projects 1/index.html" />
-</a>
-<br><br>
-<b>Projects Portfolio</b>
-</td>
-
-<td align="center" width="50%">
-<a href="https://sanjana-official.github.io/Itzfizz-ASSIGNMENT/">
-<img src="https://image.thum.io/get/width/600/https://sanjana-official.github.io/Itzfizz-ASSIGNMENT/" />
-</a>
-<br><br>
-<b>Itzfizz Assignment</b>
-</td>
-
-</tr>
-</table>
+<p align="center">
+👉 https://sanjana-official.github.io/projects/ <br>
+👉 https://sanjana-official.github.io/Itzfizz-ASSIGNMENT/
+</p>
 
 
 <br><br>
