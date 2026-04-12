@@ -9,7 +9,7 @@
 <br><br>
 
 
-## 🔥 GitHub Streak
+<h2 align="center" font-weight="bold">🔥 GitHub Streak</h2>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Sanjana-official&theme=tokyonight" />
