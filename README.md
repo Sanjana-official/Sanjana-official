@@ -33,7 +33,7 @@
 ## <h2 align="center" font-weight="bold">🚀 My Projects</h2>
 
 <p align="center">
-👉 https://sanjana-official.github.io/projects/ <br>
+👉 [https://sanjana-official.github.io/projects/](https://sanjana-official.github.io/Projects/) <br>
 👉 https://sanjana-official.github.io/Itzfizz-ASSIGNMENT/
 </p>
 
