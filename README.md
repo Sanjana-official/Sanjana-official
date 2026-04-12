@@ -44,8 +44,8 @@
 <br><br>
 
 
-<!-- <h2 align="center"><b>📈 Activity Graph</b></h2> -->
-<p align="center" style="font-size: 120px; font-weight: bold;"><b>📈 Activity Graph</b></p>
+ <h2 align="center"><b>📈 Activity Graph</b></h2> 
+<!-- <p align="center" style="font-size: 120px; font-weight: bold;"><b>📈 Activity Graph</b></p> -->
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjana-official&theme=tokyo-night" />
