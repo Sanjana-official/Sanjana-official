@@ -19,7 +19,7 @@
 
 
 
-## 🐍 Contribution Snake
+## 🐍 Contribution 
 
 ![Snake animation](https://github.com/Sanjana-official/Sanjana-official/blob/output/github-contribution-grid-snake.svg)
 
@@ -32,14 +32,16 @@
 </p>
 
 
-
+<br>
+<br>
 ## 🚀 My Projects
 
 👉 https://sanjana-official.github.io/projects/  <br>
 👉 https://sanjana-official.github.io/Itzfizz-ASSIGNMENT/
 
 
-
+<br>
+<br>
 ## 📈 Activity Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sanjana-official&theme=tokyo-night)
