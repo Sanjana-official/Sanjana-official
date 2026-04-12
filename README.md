@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Sanjana</h1>
+## <h1 align="center">👋 Hi, I'm Sanjana</h1>
 
 <p align="center">
 🚀 Passionate Developer | Building Projects Daily <br>
@@ -9,7 +9,7 @@
 <br><br>
 
 
-<h2 align="center" font-weight="bold">🔥 GitHub Streak</h2>
+## <h2 align="center" font-weight="bold">🔥 GitHub Streak</h2>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Sanjana-official&theme=tokyonight" />
@@ -19,17 +19,8 @@
 <br><br>
 
 
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sanjana-official/Sanjana-official/output/github-contribution-grid-snake.svg" />
-</p>
-
-
-<br><br>
-
-
-## 🧰 Tech Stack
+## <h2 align="center" font-weight="bold">🧰 Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
@@ -39,14 +30,14 @@
 <br><br>
 
 
-## 🚀 My Projects
+## <h2 align="center" font-weight="bold">🚀 My Projects</h2>
 
 <table>
 <tr>
 
 <td align="center" width="50%">
-<a href="https://sanjana-official.github.io/projects/">
-<img src="https://image.thum.io/get/width/600/https://sanjana-official.github.io/projects/" />
+<a href="[https://sanjana-official.github.io/projects/](https://sanjana-official.github.io/Projects/)">
+<img src="https://image.thum.io/get/width/600/https://sanjana-official.github.io/projects/projects 1/index.html" />
 </a>
 <br><br>
 <b>Projects Portfolio</b>
@@ -67,8 +58,19 @@
 <br><br>
 
 
-## 📈 Activity Graph
+## <h2 align="center" font-weight="bold">📈 Activity Graph</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjana-official&theme=tokyo-night" />
 </p>
+
+
+<br><br>
+
+## <h2 align="center" font-weight="bold">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sanjana-official/Sanjana-official/output/github-contribution-grid-snake.svg" />
+</p>
+
+
