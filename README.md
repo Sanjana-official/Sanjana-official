@@ -1,46 +1,74 @@
-# 👋 Hi, I'm Sanjana
+<h1 align="center">👋 Hi, I'm Sanjana</h1>
 
-🚀 Passionate Developer | Building Projects Daily  
-💻 Focus: HTML • CSS • JavaScript  
+<p align="center">
+🚀 Passionate Developer | Building Projects Daily <br>
+💻 Focus: HTML • CSS • JavaScript
+</p>
 
+
+<br><br>
 
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Sanjana-official&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sanjana-official&theme=tokyonight" />
+</p>
 
 
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanjana-official&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjana-official&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
+<br><br>
 
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sanjana-official/Sanjana-official/output/github-contribution-grid-snake.svg" />
+</p>
 
 
-## 🐍 Contribution 
-
-![Snake animation](https://github.com/Sanjana-official/Sanjana-official/blob/output/github-contribution-grid-snake.svg)
-
+<br><br>
 
 
 ## 🧰 Tech Stack
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
 </p>
 
 
+<br><br>
+
+
 ## 🚀 My Projects
 
-👉 https://sanjana-official.github.io/projects/  <br>
-👉 https://sanjana-official.github.io/Itzfizz-ASSIGNMENT/
+<table>
+<tr>
+
+<td align="center" width="50%">
+<a href="https://sanjana-official.github.io/projects/">
+<img src="https://image.thum.io/get/width/600/https://sanjana-official.github.io/projects/" />
+</a>
+<br><br>
+<b>Projects Portfolio</b>
+</td>
+
+<td align="center" width="50%">
+<a href="https://sanjana-official.github.io/Itzfizz-ASSIGNMENT/">
+<img src="https://image.thum.io/get/width/600/https://sanjana-official.github.io/Itzfizz-ASSIGNMENT/" />
+</a>
+<br><br>
+<b>Itzfizz Assignment</b>
+</td>
+
+</tr>
+</table>
 
 
+<br><br>
 
 
 ## 📈 Activity Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sanjana-official&theme=tokyo-night)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjana-official&theme=tokyo-night" />
+</p>
