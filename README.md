@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Sanjana</h1>
 
 <p align="center">
-🚀 Passionate Developer | Building Projects Daily <br>
+🚀 Passionate Developer <br>
 💻 Focus: HTML • CSS • JavaScript
 </p>
 
