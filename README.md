@@ -6,7 +6,7 @@
 </p>
 
 
-<br><br>
+<!-- <br><br>
 
 
  <h2 align="center"><b>🔥 GitHub Streak</b></h2>
@@ -14,7 +14,7 @@
 
 <p align="center"> 
   <img src="https://streak-stats.demolab.com?user=Sanjana-official&theme=tokyonight" /> 
- </p> 
+ </p>  -->
 
 
  <br><br>
