@@ -14,7 +14,9 @@
 
 <p align="center"> 
   <!-- <img src="https://streak-stats.demolab.com?user=Sanjana-official&theme=tokyonight" />  -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjana-official&theme=tokyonight" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjana-official&theme=tokyonight" /> -->
+   <img src="https://github-readme-stats.vercel.app/api?username=Sanjana-official&show_icons=true&theme=tokyonight" />
+
  </p> 
 
 
